@@ -12,6 +12,8 @@ You are given two integer arrays nums1 and nums2, sorted in non-decreasing order
 Merge nums1 and nums2 into a single array sorted in non-decreasing order. The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
 ## que5:
 Given an array nums of size n, return the majority element.The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+## que6:
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 # Usage
 Each code file is self-contained and can be compiled and executed independently. Follow these general steps to use the codes:
 
